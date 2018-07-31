@@ -21,7 +21,7 @@ npm run start
 ```
 
 ### response
-```json
+```
 { number: 304579,
   id: '0x0004a5c32eb708d8b503c1ad370594921796981efe58d56bb6592b169a8f8f2f',
   size: 239,
