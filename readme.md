@@ -1,4 +1,4 @@
-```
+```javascript
 // ES5 style
 const thorify = require("thorify").thorify;
 const Web3 = require("web3");
