@@ -13,7 +13,7 @@ web3.eth.getBlock("latest").then(res => console.log(res));
 // Best block info will be displayed
 ```
 
-## try to demo
+## try the demo
 ```bash
 cd demo
 npm i
